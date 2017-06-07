@@ -6106,3 +6106,69 @@ Translated:Has Z Probe
 English:Use Z Probe
 Translated:Use Z Probe
 
+English:The printer has a servo for lowering and rasing the z probe.
+Translated:The printer has a servo for lowering and rasing the z probe.
+
+English:The offset to use whene probing. For manual probing, this is the thickness of the paper (or other calibration device).
+Translated:The offset to use whene probing. For manual probing, this is the thickness of the paper (or other calibration device).
+
+English:The distance the z probe is from the extruder in x and y.
+Translated:The distance the z probe is from the extruder in x and y.
+
+English:This is the angle that lowers or deploys the z probe.
+Translated:This is the angle that lowers or deploys the z probe.
+
+English:This is the angle that raises or stows the z probe.
+Translated:This is the angle that raises or stows the z probe.
+
+English:Has Z Servo
+Translated:Has Z Servo
+
+English:Start Height
+Translated:Start Height
+
+English:Use Automatic Z Probe
+Translated:Use Automatic Z Probe
+
+English:Paper Width / Z Offset
+Translated:Paper Width / Z Offset
+
+English:XY Offset
+Translated:XY Offset
+
+English:Lower / Deploy
+Translated:Lower / Deploy
+
+English:Raise / Stow
+Translated:Raise / Stow
+
+English:The number of times to sample each probe position (results will be averaged).
+Translated:The number of times to sample each probe position (results will be averaged).
+
+English:Number of Samples
+Translated:Number of Samples
+
+English:Location: 'Controls' -> 'Movement' -> 'Z Offset'
+Translated:Location: 'Controls' -> 'Movement' -> 'Z Offset'
+
+English:Controls Z Offset is too large.
+Translated:Controls Z Offset is too large.
+
+English:Your active print Z Offset (sometimes called Babby Stepping) is greater than 1mm and invalid. Printer needs to be re-calibrated, or value cleared.
+Translated:Your active print Z Offset (sometimes called Babby Stepping) is greater than 1mm and invalid. Printer needs to be re-calibrated, or value cleared.
+
+English:Calibration Error
+Translated:Calibration Error
+
+English:Z Offset is too large.
+Translated:Z Offset is too large.
+
+English:The Z Offset for your printer, sometimes called Babby Stepping, is greater than 2mm and invalid. Clear the value and re-level the bed.
+Translated:The Z Offset for your printer, sometimes called Babby Stepping, is greater than 2mm and invalid. Clear the value and re-level the bed.
+
+English:The distance the z probe is from the extruder in z. For manual probing, this is the negated thickness of the paper (or other calibration device).
+Translated:The distance the z probe is from the extruder in z. For manual probing, this is the negated thickness of the paper (or other calibration device).
+
+English:The distance the z probe is from the extruder in z. For manual probing, this is thickness of the paper (or other calibration device).
+Translated:The distance the z probe is from the extruder in z. For manual probing, this is thickness of the paper (or other calibration device).
+
